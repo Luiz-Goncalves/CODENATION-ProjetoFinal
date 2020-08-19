@@ -37,3 +37,7 @@ avaliação de performance do modelo e visualização dos resultados;
 
 Para a apresentação do projeto, o tempo entre o treinamento do modelo e o output deve ser menor que 20 min.
 
+## Link do vídeo explicativo
+
+https://youtu.be/6cXt9PrPcMo
+
